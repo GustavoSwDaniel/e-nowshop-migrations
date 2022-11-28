@@ -1,0 +1,23 @@
+{
+    "name": "gustavo2",
+    "last_name": "daniel",
+    "email": "email",
+    "cpf": "17301873077",
+    "tell": [
+        {
+            "type": "cell",
+            "number": "99116-9510"
+        }
+    ],
+    "address": {
+        "street": "rua1",
+        "cep": "12",
+        "city": "campos",
+        "state": "SP",
+        "village": "VILA",
+        "complement": "CASA"
+    },
+    "password": str
+}
+
+

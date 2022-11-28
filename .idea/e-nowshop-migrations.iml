@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.8 (e-noewshop-users-3.8.12)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="e-nowshop-models" />
+    <orderEntry type="module" module-name="e-nowshop-api-users" />
+    <orderEntry type="module" module-name="e-nowshop-api-employees" />
+    <orderEntry type="module" module-name="e-nowshop-api-administrative" />
+    <orderEntry type="module" module-name="e-nowshop-api-invetory" />
+    <orderEntry type="module" module-name="e-nowshop-infrastructure" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+</module>

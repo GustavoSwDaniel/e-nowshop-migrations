@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../e-nowshop-api-administrative/.idea/e-nowshop-api-administrative.iml" filepath="$PROJECT_DIR$/../e-nowshop-api-administrative/.idea/e-nowshop-api-administrative.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../e-nowshop-api-employees/.idea/e-nowshop-api-employees.iml" filepath="$PROJECT_DIR$/../e-nowshop-api-employees/.idea/e-nowshop-api-employees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../e-nowshop-api-invetory/.idea/e-nowshop-api-invetory.iml" filepath="$PROJECT_DIR$/../e-nowshop-api-invetory/.idea/e-nowshop-api-invetory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../e-nowshop-api-users/.idea/e-nowshop-api-users.iml" filepath="$PROJECT_DIR$/../e-nowshop-api-users/.idea/e-nowshop-api-users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../e-nowshop-infrastructure/.idea/e-nowshop-infrastructure.iml" filepath="$PROJECT_DIR$/../e-nowshop-infrastructure/.idea/e-nowshop-infrastructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/e-nowshop-migrations.iml" filepath="$PROJECT_DIR$/.idea/e-nowshop-migrations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../e-nowshop-models/.idea/e-nowshop-models.iml" filepath="$PROJECT_DIR$/../e-nowshop-models/.idea/e-nowshop-models.iml" />
+    </modules>
+  </component>
+</project>
